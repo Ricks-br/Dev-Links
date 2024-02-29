@@ -11,7 +11,7 @@ function toggleMode() {
     //img que será alterada
   } else {
     //se tiver sem light mode, manter a imgagem normal
-    img.setAtribute("src", "./assets/assets/avatar-rick.png")
+    img.setAttribute("src", "./assets/assets/avatar-rick.png")
     //img padrão
   }
 }
